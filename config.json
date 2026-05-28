@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokendtringify",
+        "uuid": 27400389,
+        "checksum": "m70tf"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
